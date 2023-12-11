@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/filmorate-in-cs.http
+/appsettings.json
+/.gitattributes
